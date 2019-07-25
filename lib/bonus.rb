@@ -20,7 +20,7 @@ def bonus
    }
   }
   #code your solution here:
-  status = "dead" 
+  epic 
   status 
 end 
 
