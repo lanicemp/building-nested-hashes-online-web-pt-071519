@@ -8,7 +8,9 @@ def fourth_challenge
           {:name => "Benvolio",
           :age => "17",
           :attitude => "worried"},
-        :Mercutio => {}
+          {:name => "Mercuito",
+          :age => "18",
+          :attitude => "hot-headed"}
         #your hashes here!
       ]
    }, 
